@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.1-FileInfo\bin\Debug\20.1-FileInfo.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.1-FileInfo\bin\Debug\20.1-FileInfo.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.1-FileInfo\obj\Debug\20.1-FileInfo.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.1-FileInfo\obj\Debug\20.1-FileInfo.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.1-FileInfo\obj\Debug\20.1-FileInfo.pdb

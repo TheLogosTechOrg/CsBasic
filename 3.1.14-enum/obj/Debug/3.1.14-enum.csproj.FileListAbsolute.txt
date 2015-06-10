@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.14-enum\bin\Debug\3.1.14-enum.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.14-enum\bin\Debug\3.1.14-enum.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.14-enum\obj\Debug\3.1.14-enum.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.14-enum\obj\Debug\3.1.14-enum.pdb

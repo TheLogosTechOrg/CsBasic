@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.5-writeBinary\bin\Debug\20.5-writeBinary.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.5-writeBinary\bin\Debug\20.5-writeBinary.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.5-writeBinary\obj\Debug\20.5-writeBinary.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.5-writeBinary\obj\Debug\20.5-writeBinary.pdb

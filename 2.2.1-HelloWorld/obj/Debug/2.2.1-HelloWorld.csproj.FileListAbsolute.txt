@@ -1,0 +1,7 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloWorld\bin\Debug\2.2.1-HelloWorld.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloWorld\bin\Debug\2.2.1-HelloWorld.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb
+C:\Users\Le\OneDrive\C#\myCsProject\LogosCsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.exe
+C:\Users\Le\OneDrive\C#\myCsProject\LogosCsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb

@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.4-object\bin\Debug\3.3.4-object.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.4-object\bin\Debug\3.3.4-object.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.4-object\obj\Debug\3.3.4-object.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.4-object\obj\Debug\3.3.4-object.pdb

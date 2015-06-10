@@ -1,0 +1,7 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\bin\Debug\2.2.3-UsingHelloLib.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\bin\Debug\2.2.2-HelloLib.dll
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\bin\Debug\2.2.2-HelloLib.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\obj\Debug\2.2.3-UsingHelloLib.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\obj\Debug\2.2.3-UsingHelloLib.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\bin\Debug\2.2.3-UsingHelloLib.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.3-UsingHelloLib\obj\Debug\2.2.3-UsingHelloLib.exe

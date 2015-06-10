@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.2.1-boxing\bin\Debug\3.2.1-boxing.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.2.1-boxing\bin\Debug\3.2.1-boxing.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.2.1-boxing\obj\Debug\3.2.1-boxing.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.2.1-boxing\obj\Debug\3.2.1-boxing.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.2.1-boxing\obj\Debug\3.2.1-boxing.pdb

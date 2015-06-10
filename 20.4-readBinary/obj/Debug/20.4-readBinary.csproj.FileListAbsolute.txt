@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.4-readBinary\bin\Debug\20.4-readBinary.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.4-readBinary\bin\Debug\20.4-readBinary.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.4-readBinary\obj\Debug\20.4-readBinary.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.4-readBinary\obj\Debug\20.4-readBinary.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.4-readBinary\obj\Debug\20.4-readBinary.pdb

@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.3-write\bin\Debug\20.3-write.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.3-write\bin\Debug\20.3-write.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.3-write\obj\Debug\20.3-write.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.3-write\obj\Debug\20.3-write.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.3-write\obj\Debug\20.3-write.pdb

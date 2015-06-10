@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.1-bool\bin\Debug\3.1.1-bool.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.1-bool\obj\Debug\3.1.1-bool.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.1-bool\bin\Debug\3.1.1-bool.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.1-bool\obj\Debug\3.1.1-bool.exe

@@ -1,0 +1,9 @@
+This is a text file: TextFile.txt
+Next lines are numbers
+3
+4.55
+The next line is a boolean
+True
+The next line is a class name
+System.IO.StreamWriter
+THE END

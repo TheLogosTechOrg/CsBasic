@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.2-read\bin\Debug\20.2-read.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.2-read\bin\Debug\20.2-read.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.2-read\obj\Debug\20.2-read.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.2-read\obj\Debug\20.2-read.pdb

@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface2\bin\Debug\3.3.3-interface2.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface2\bin\Debug\3.3.3-interface2.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface2\obj\Debug\3.3.3-interface2.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface2\obj\Debug\3.3.3-interface2.pdb

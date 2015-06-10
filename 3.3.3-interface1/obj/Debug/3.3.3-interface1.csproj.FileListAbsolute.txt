@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface1\bin\Debug\3.3.3-interface1.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface1\bin\Debug\3.3.3-interface1.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface1\obj\Debug\3.3.3-interface1.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface1\obj\Debug\3.3.3-interface1.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.3-interface1\obj\Debug\3.3.3-interface1.pdb

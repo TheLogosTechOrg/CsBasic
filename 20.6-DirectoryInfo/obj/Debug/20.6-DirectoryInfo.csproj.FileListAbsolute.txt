@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.6-DirectoryInfo\bin\Debug\20.6-DirectoryInfo.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.6-DirectoryInfo\obj\Debug\20.6-DirectoryInfo.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.6-DirectoryInfo\obj\Debug\20.6-DirectoryInfo.pdb
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.6-DirectoryInfo\bin\Debug\20.6-DirectoryInfo.exe
+C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\20.6-DirectoryInfo\obj\Debug\20.6-DirectoryInfo.exe

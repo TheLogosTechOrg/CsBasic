@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.2-HelloLib\bin\Debug\2.2.2-HelloLib.dll
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.2-HelloLib\bin\Debug\2.2.2-HelloLib.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.2-HelloLib\obj\Debug\2.2.2-HelloLib.dll
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.2-HelloLib\obj\Debug\2.2.2-HelloLib.pdb

@@ -1,0 +1,5 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate2\bin\Debug\3.3.2-delegate2.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate2\bin\Debug\3.3.2-delegate2.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate2\obj\Debug\3.3.2-delegate2.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate2\obj\Debug\3.3.2-delegate2.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate2\obj\Debug\3.3.2-delegate2.pdb

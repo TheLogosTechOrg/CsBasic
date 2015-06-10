@@ -1,0 +1,4 @@
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.15-struct\bin\Debug\3.1.15-struct.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.15-struct\bin\Debug\3.1.15-struct.pdb
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.15-struct\obj\Debug\3.1.15-struct.exe
+C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.1.15-struct\obj\Debug\3.1.15-struct.pdb
