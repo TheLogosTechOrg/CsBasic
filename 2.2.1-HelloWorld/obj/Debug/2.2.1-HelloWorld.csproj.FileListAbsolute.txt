@@ -5,3 +5,5 @@ C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloW
 C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb
 C:\Users\Le\OneDrive\C#\myCsProject\LogosCsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.exe
 C:\Users\Le\OneDrive\C#\myCsProject\LogosCsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb
+C:\Users\Le\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.exe
+C:\Users\Le\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb

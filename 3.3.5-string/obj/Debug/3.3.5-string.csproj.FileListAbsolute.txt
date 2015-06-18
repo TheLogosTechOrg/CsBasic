@@ -4,3 +4,5 @@ C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.5-string
 C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.5-string\obj\Debug\3.3.5-string.pdb
 C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\3.3.5-string\obj\Debug\3.3.5-string.exe
 C:\zhangle\OneDrive\C#\myCsProject\LogosCsBasic\3.3.5-string\obj\Debug\3.3.5-string.pdb
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.5-string\obj\Debug\3.3.5-string.exe
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.5-string\obj\Debug\3.3.5-string.pdb

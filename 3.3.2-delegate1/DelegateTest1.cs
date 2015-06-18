@@ -22,7 +22,7 @@ namespace Bookstore
         }
     }
     
-    // "do something" to a book
+    // do something to a book
     public delegate void ProcessBookDelegate(Book book);
     
     public class BookDB
@@ -34,7 +34,7 @@ namespace Bookstore
             list.Add(new Book(title, author, price, paperBack));
         }
         
-        // "do something" to all paperback books
+        // do something to all paperback books
         public void ProcessPaperbackBooks(ProcessBookDelegate processBook)
         {
             foreach (Book b in list) 

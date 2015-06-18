@@ -2,3 +2,8 @@ C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delega
 C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate\bin\Debug\3.3.2-delegate.pdb
 C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate\obj\Debug\3.3.2-delegate.exe
 C:\zhangle\OneDrive\C#\1-intro\C#语言程序设计\CD\LogosCsIntro\3.3.2-delegate\obj\Debug\3.3.2-delegate.pdb
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.2-delegate\bin\Debug\3.3.2-delegate.exe
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.2-delegate\bin\Debug\3.3.2-delegate.pdb
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.2-delegate\obj\Debug\3.3.2-delegate.csprojResolveAssemblyReference.cache
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.2-delegate\obj\Debug\3.3.2-delegate.exe
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\3.3.2-delegate\obj\Debug\3.3.2-delegate.pdb

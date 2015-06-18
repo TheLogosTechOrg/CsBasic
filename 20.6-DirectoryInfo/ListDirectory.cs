@@ -13,6 +13,8 @@ class ListDirectory
         // the following two used to work when C# was in beta
         //Console.WriteLine("Is Directory: " + fl.IsDirectory.ToString());
         //Console.WriteLine("Is File: " + fl.IsFile);
+        Console.WriteLine("Is Directory: " + Directory.Exists(fl.FullName));
+        Console.WriteLine("Is File: " + File.Exists(fl.FullName));
         Console.WriteLine();
 
         Console.WriteLine("Files contained in this folder:");

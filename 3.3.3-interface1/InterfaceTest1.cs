@@ -17,11 +17,11 @@ class Box : IDimensions
         widthInches = width;
     }
     
+    // Note the interface name is used for the interface methods implementation
     float IDimensions.Length() 
     {
         return lengthInches;
     }
-    
     float IDimensions.Width() 
     {
         return widthInches;      

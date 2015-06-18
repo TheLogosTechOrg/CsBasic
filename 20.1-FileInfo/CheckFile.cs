@@ -11,9 +11,12 @@ class CheckFile
         Console.WriteLine("File Name: " + fl.Name);
         Console.WriteLine("Folder Name: " + fl.Directory);
         Console.WriteLine("Full Path: " + fl.FullName);
-        // the following two used to work when C# was in beta
+        // the following two used to work when C# was in beta:
         //Console.WriteLine("Is Directory: " + fl.IsDirectory.ToString());
         //Console.WriteLine("Is File: " + fl.IsFile.ToString());
+        // here is the modern substitues: 
+        Console.WriteLine("Is Directory: " + Directory.Exists(fl.FullName));
+        Console.WriteLine("Is File: " + File.Exists(fl.FullName));
         Console.WriteLine("Last write time: " + fl.LastWriteTime.ToString());
         Console.WriteLine("Size in bytes: " + fl.Length);
         Console.ReadLine();

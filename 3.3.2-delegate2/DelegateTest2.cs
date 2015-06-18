@@ -1,7 +1,8 @@
-// delegate operation: + and -
+// delegate multicast with operations + and -
 
 using System;
 
+// do something to a string
 delegate void MyDelegate(string s);
 
 class MyClass
@@ -22,7 +23,7 @@ class MyClass
 
         a = new MyDelegate(Hello);
         b = new MyDelegate(Goodbye);
-        c = a + b;
+        c = a + b; // do two things together!
         d = c - a; // = b
 
         Console.WriteLine("Invoking delegate a:");
