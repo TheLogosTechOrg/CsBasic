@@ -7,3 +7,8 @@ C:\Users\Le\OneDrive\C#\myCsProject\LogosCsBasic\2.2.1-HelloWorld\obj\Debug\2.2.
 C:\Users\Le\OneDrive\C#\myCsProject\LogosCsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb
 C:\Users\Le\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.exe
 C:\Users\Le\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.exe
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.pdb
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\bin\Debug\2.2.1-HelloWorld.exe
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\bin\Debug\2.2.1-HelloWorld.pdb
+C:\zhangle\OneDrive\C#\myCsGitHub\CsBasic\2.2.1-HelloWorld\obj\Debug\2.2.1-HelloWorld.csprojResolveAssemblyReference.cache
