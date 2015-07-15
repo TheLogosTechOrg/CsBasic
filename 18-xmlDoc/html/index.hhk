@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#a47deb5fd89abdaae454850e92f9a35c4"><param name="Name" value="Main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#ab9d87f9a240b752606e8508461e3a318"><param name="Name" value="Name"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html"><param name="Name" value="SomeClass"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#a47deb5fd89abdaae454850e92f9a35c4"><param name="Name" value="Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#ab9d87f9a240b752606e8508461e3a318"><param name="Name" value="Name"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#a947e038ef3b0b082524bf87ecae6da8a"><param name="Name" value="SomeMethod"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#a161141f745ee6a491b4dedd62be0ae46"><param name="Name" value="SomeOtherMethod"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#a947e038ef3b0b082524bf87ecae6da8a"><param name="Name" value="SomeMethod"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_some_class.html#a161141f745ee6a491b4dedd62be0ae46"><param name="Name" value="SomeOtherMethod"></OBJECT>
+</UL>
+</BODY>
+</HTML>

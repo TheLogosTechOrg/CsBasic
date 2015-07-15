@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>xmlDocTest</name>
+    </assembly>
+    <members>
+        <member name="T:SomeClass">
+            <summary>
+            Class level summary documentation goes here.
+            </summary>
+            <remarks>
+            Longer comments can be associated with a type or member 
+            through the remarks tag
+            </remarks>
+        </member>
+        <member name="F:SomeClass.myName">
+            <summary>
+            Store for the name property
+            </summary>
+        </member>
+        <member name="M:SomeClass.#ctor">
+            <summary>
+            constructor for SomeClass
+            </summary>
+        </member>
+        <member name="M:SomeClass.SomeMethod(System.String)">
+            <summary>
+            Description for <c>SomeMethod</c>, which is a method in <c>SomeClass</c>.
+            <para>Here's how you could make a second paragraph in a description. <see cref="M:System.Console.WriteLine"/> for information about output statements.</para>
+            </summary>
+            <param name="s"> Parameter description for s goes here</param>
+            <seealso cref="M:SomeClass.Main(System.String[])"/>
+            <seealso cref="T:System.String">
+            You can use the cref attribute on any tag to reference a type or member 
+            and the compiler will check that the reference exists. 
+            </seealso>
+        </member>
+        <member name="M:SomeClass.SomeOtherMethod">
+            <summary>
+            Some other method. 
+            </summary>
+            <returns>
+            Return results are described through the returns tag, which is integer 0 in this case.
+            </returns>
+            <seealso cref="M:SomeClass.SomeMethod(System.String)">
+            Notice the use of the cref attribute to reference a specific method 
+            </seealso>
+            <example> This sample shows how to call the GetZero method.
+            <code>
+              class MyClass 
+              {
+                 public static int Main() 
+                 {
+                    return GetZero();
+                 }
+              }
+            </code>
+            </example>
+            <permission cref="T:System.Security.PermissionSet">This is a public method. </permission>
+        </member>
+        <member name="M:SomeClass.Main(System.String[])">
+            <summary>
+            The entry point for the application. The <paramref name="args"/> parameter represents the command line arguments passed in. 
+            </summary>
+            <param name="args">A list of command line arguments</param>
+        </member>
+        <member name="P:SomeClass.Name">
+            <summary>
+            Name property 
+            </summary>
+            <value>
+            A value tag is used to describe the property value
+            </value>
+        </member>
+        <member name="T:EClass">
+            <exception cref="T:System.Exception">This is an exception class.</exception>
+            <remarks>Here is an example of a bulleted list:
+            <list type="bullet">
+              <listheader>
+                <term>item 1</term>
+                <description>item 1 description</description>
+              </listheader>
+            <item>
+              <term>item 1</term>
+              <description>Item 1.</description>
+            </item>
+            <item>
+              <description>Item 2.</description>
+            </item>
+            </list>
+            </remarks>
+        </member>
+    </members>
+</doc>
